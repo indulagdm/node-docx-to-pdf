@@ -1,0 +1,12 @@
+{
+  "name": "docx-2-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Indula Madhubhashana",
+  "license": "ISC",
+  "description": "Node package for convert docx to pdf."
+}
